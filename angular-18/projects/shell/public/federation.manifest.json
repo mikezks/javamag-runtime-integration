@@ -1,0 +1,5 @@
+{
+	"booking": "http://localhost:4201/remoteEntry.json",
+	"checkin": "http://localhost:4202/remoteEntry.json",
+	"boarding": "http://localhost:4203/remoteEntry.json"
+}
