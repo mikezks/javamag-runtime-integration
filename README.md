@@ -17,7 +17,7 @@
     npx ng serve booking
     ```
 
-- Angular 17: Boarding
+- Angular 17: MFE Boarding
   
     ```bash
     cd angular-17
@@ -25,7 +25,7 @@
     npx ng serve boarding
     ```
 
-- React 18: Checkin
+- React 18: MFE Checkin
 
     ```bash
     cd react-18
